@@ -1,0 +1,4 @@
+.env
+*.pt
+snapshots/
+__pycache__/
